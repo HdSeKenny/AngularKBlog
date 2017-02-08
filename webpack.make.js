@@ -1,5 +1,5 @@
 'use strict';
-/*eslint-env node*/
+/*eslint-env node s*/
 var webpack = require('webpack');
 var autoprefixer = require('autoprefixer');
 var HtmlWebpackPlugin = require('html-webpack-plugin');
